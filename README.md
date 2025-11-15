@@ -4,3 +4,4 @@
 ### To be honest, git is a useful tool.
 
 I am trying to learing git branch.
+It is a bit hard to me, but I can overcome it.
