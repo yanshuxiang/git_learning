@@ -3,5 +3,4 @@
 
 ### To be honest, git is a useful tool.
 
-Hello git
-Hello world
+I am trying to learing git branch.
